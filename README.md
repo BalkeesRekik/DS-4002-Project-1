@@ -24,7 +24,11 @@ some of the packages we used:
 In this section, you should provide an outline or tree illustrating the hierarchy of folders and subfolders contained in your Project Folder, and listing the files stored in each folder or subfolder.
 
 DS-4002-Project-1
-│── DATA               
+
+│── DATA
+│   ├── initial_data
+│       ├── Fake.csv
+│       ├── True.csv
 │── OUTPUT                
 │── SCRIPTS                  
 │── LICENSE                  
