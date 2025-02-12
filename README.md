@@ -23,28 +23,12 @@ some of the packages we used:
 ## Documentation Map
 In this section, you should provide an outline or tree illustrating the hierarchy of folders and subfolders contained in your Project Folder, and listing the files stored in each folder or subfolder.
 
-📂 DS-4002-Project-1
-│── 📜 README.md                # Project overview and instructions
-│── 📜 LICENSE.md               # License details (MIT License)
-│── 📂 SCRIPTS                  # Python scripts for data processing and analysis
-│   ├── data_preprocessing.py   # Cleans and merges dataset
-│   ├── eda_visualizations.py   # Performs exploratory data analysis (EDA)
-│   ├── sentiment_analysis.py   # Conducts sentiment analysis using VADER
-│   ├── hypothesis_testing.py   # Runs t-tests on sentiment scores
-│── 📂 DATA                     # Contains datasets used in the project
-│   ├── isot_fake_news.csv      # Original dataset (external source)
-│   ├── merged_news_data.csv    # Processed dataset (fake + real news combined)
-│   ├── README.txt              # Instructions on downloading larger datasets
-│── 📂 OUTPUT                   # Stores project results and figures
-│   ├── sentiment_distributions.png  # Visualization of sentiment scores
-│   ├── hypothesis_test_results.txt  # Summary of statistical tests
-│── 📂 DOCUMENTATION             # Additional reports and references
-│   ├── data_appendix.pdf       # Description of dataset variables and structure
-│   ├── references.txt          # Sources and citations
-│── 📂 RESULTS                   # Final results and findings
-│   ├── final_report.pdf        # Summarized findings and interpretations
-│   ├── presentation_slides.pptx  # Slides for project presentation
-
+DS-4002-Project-1
+│── DATA               
+│── OUTPUT                
+│── SCRIPTS                  
+│── LICENSE                  
+│── README                 
 
 ## Section 3: Instructions for Reproducing Results
 In this section, you should give explicit step-by-step instructions to reproduce the Results of your study. These instructions should be written in straightforward plain English, but they must be concise, but detailed and precise enough, to make it possible for an interested user to reproduce your results without much difficulty. N.B. This section will be crucial for the CS1 assignment, where you'll be required to reproduce the results of other groups. Therefore, make sure to explain this section thoroughly. 
