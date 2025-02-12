@@ -26,19 +26,12 @@ DS-4002-Project-1
 
 ```
 │── 📂 DATA 
-
     ├── 📂 initial_data 
-  
-      ├── Fake.csv  
-    
-      ├── True.csv 
-    
+      ├── Fake.csv      
+      ├── True.csv     
 │── 📂 OUTPUT 
-
 │── 📂 SCRIPTS 
-
 │── LICENSE 
-
 │── README.md     
 ```
 
