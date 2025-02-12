@@ -26,9 +26,13 @@ In this section, you should provide an outline or tree illustrating the hierarch
 DS-4002-Project-1
 
 │── DATA
+
 │   ├── initial_data
+
 │       ├── Fake.csv
+
 │       ├── True.csv
+
 │── OUTPUT                
 │── SCRIPTS                  
 │── LICENSE                  
