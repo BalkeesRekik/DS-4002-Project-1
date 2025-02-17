@@ -52,5 +52,6 @@ git clone https://github.com/BalkeesRekik/DS-4002-Project-1.git
 ```
 ## References
 [1] “Mann-Whitney U Test: Assumptions and Example,” Informatics from Technology Networks. Accessed: Feb. 16, 2025. [Online]. Available: http://www.technologynetworks.com/informatics/articles/mann-whitney-u-test-assumptions-and-example-363425
+
 [2] C. Hutto and E. Gilbert, “VADER: A Parsimonious Rule-Based Model for Sentiment Analysis of Social Media Text,” ICWSM, vol. 8, no. 1, pp. 216–225, May 2014, doi: 10.1609/icwsm.v8i1.14550.
 
